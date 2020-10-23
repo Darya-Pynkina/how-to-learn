@@ -202,6 +202,7 @@ margin: 0;
   flex-basis: auto;
   flex-direction: column;
   align-items: center;
+  height: 430px;
 }
 
 .video__iframes{
@@ -220,10 +221,12 @@ margin: 0;
   margin-right: 20px;
 }
 .oakley{
-  margin-top:100px;
+  padding-top:160px;
+  padding-bottom: 80px;
   display:flex;
   flex-direction: column;
   bottom: 0;
+  background-color: #f2f2f2;
 }
 
 .digits{
@@ -283,7 +286,7 @@ margin: 0;
 }
 
 .feynman{
-  margin-top: 100px;
+  padding-top: 80px;
   background-color:#f2f2f2;
   display: flex;
   flex-direction: column;
