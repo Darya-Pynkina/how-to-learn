@@ -195,13 +195,29 @@ margin: 0;
   text-align: center;
   border: 2px 
 }
+
 .video{
   margin-top: 100px;
   display: flex;
   flex-basis: auto;
   flex-direction: column;
   align-items: center;
-  border: 2px red solid;
+}
+
+.video__iframes{
+  margin-top: 50px;
+  display: flex;
+  flex-basis: auto;
+}
+
+.video__iframe{
+  width: 515px;
+  height: 316px;
+  border: none;
+}
+
+.video__iframe:first-of-type{
+  margin-right: 20px;
 }
 
 .digits{
@@ -209,7 +225,6 @@ margin: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
 
 .section-title{
@@ -228,17 +243,6 @@ margin: 0;
   font-size: 24px;
   font-weight: normal;
   text-align:  center;
-}
-
-.video__iframes{
-  margin-top: 50px;
-  display: flex;
-}
-
-.video__iframe{
-  width: 515px;
-  height: 316px;
- 
 }
 
 .table{
