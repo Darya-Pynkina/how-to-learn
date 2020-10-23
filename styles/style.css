@@ -219,6 +219,12 @@ margin: 0;
 .video__iframe:first-of-type{
   margin-right: 20px;
 }
+.oakley{
+  margin-top:100px;
+  display:flex;
+  flex-direction: column;
+  bottom: 0;
+}
 
 .digits{
   margin-top: 100px;
