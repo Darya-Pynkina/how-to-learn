@@ -454,6 +454,24 @@ object-position: top;
   margin-top: 80px;
 }
 
+.resources{
+  margin: 100px 0 217px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.resources__logo-zone{
+  margin-top: 80px;
+  display: flex;
+  flex-basis: auto;
+  width: 1100px;
+}
+
+.resources__logo{
+  width: 270px;
+  height: 38px;
+}
 .footer{
   background-color: #1f1f1f;
   display: flex;
