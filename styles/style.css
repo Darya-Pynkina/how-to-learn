@@ -71,6 +71,11 @@
   line-height: 25px;
   font-weight: normal;
   text-decoration-line: none;
+  transition: 1s ease;
+  }
+  
+  .header__link:hover{
+    opacity: .2;
   }
 
 .header__main-illustration{
@@ -359,6 +364,11 @@ object-position: top;
   font-weight: normal;
   text-decoration-line: none;
   color:#2f80ed;
+  transition: 1s ease;
+}
+
+.khan__buy-link:hover{
+  opacity: .2;
 }
 
 .feynman{
@@ -408,8 +418,11 @@ object-position: top;
   right: 48px;
   top: 50%;
   text-decoration-line: none;
+  transition: 1s ease;
 }
-
+.feynman__link:hover{
+  opacity: .2;
+}
 .kaufman{
   display: flex;
   flex-direction: column;
