@@ -555,7 +555,7 @@ object-position: top;
   margin-right: 10px;
 }
 
-.footer__column_info{
+.footer__column_content_info{
   display: flex;
   flex-direction: column;
  }
