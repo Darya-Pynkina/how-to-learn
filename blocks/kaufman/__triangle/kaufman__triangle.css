@@ -7,12 +7,12 @@
   }
 }
 .kaufman__triangle{
-    background-image: url(../images/kaufman-triangle.svg);
-    background-size: contain;
-    width: 877px;
-    height: 877px;
-    position: absolute;
-    z-index: -1;
-    right: -210px;
-    animation: rotation 20s linear infinite;
-  }
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-size: contain;
+  width: 877px;
+  height: 877px;
+  position: absolute;
+  z-index: -1;
+  right: -210px;
+  animation: rotation 20s linear infinite;
+}
